@@ -89,9 +89,9 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/angelminati/magnetobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/angelminati/DaredevilMirrorBot)
 
-- Configs [Here](https://github.com/angelminati/magnetobot/tree/main#configs)
+- Configs [Here](https://github.com/angelminati/DaredevilMirrorBot/tree/main#configs)
 
 - You can also deploy on VPS !!
 
