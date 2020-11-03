@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/main/README.md",
+    "repository": "https://github.com/angelminati/DaredevilMirrorBot.git",
+    "website": "https://github.com/angelminati/DaredevilMirrorBot/tree/main",
+    "success_url": "https://github.com/angelminati/DaredevilMirrorBot/blob/main/README.md",
     "stack": "container",
     "env": {
       "ENV": {
