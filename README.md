@@ -89,7 +89,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/angelminati/DaredevilMirrorBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angelminati/DaredevilMirrorBot)
 
 - Configs [Here](https://github.com/angelminati/DaredevilMirrorBot/tree/main#configs)
 
